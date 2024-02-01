@@ -20,9 +20,9 @@ export const DASHBOARD_SIDE_BAR_LINKS = [
     },
   
     {
-      key: "report",
-      label: "Report",
-      path: "/report",
+      key: "help-center",
+      label: "Help Center",
+      path: "/help-center",
       icon: <HiOutlineBriefcase />,
     },
 
